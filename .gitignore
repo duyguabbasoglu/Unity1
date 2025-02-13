@@ -1,0 +1,9 @@
+# Unity proje gereksiz dosyalar
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+UserSettings/
+.DS_Store
+
